@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "941757973691-nahu92r4pkae5ksp0gll6d80nnfq8upp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gonnteam.smartlamp",
+            "certificate_hash": "9b5bd6f06cf1b45fdcf89219c52023d76a62c5ad"
+          }
+        },
+        {
           "client_id": "941757973691-h5igosvehp73g9mnleuedg9p1ddt5jmt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

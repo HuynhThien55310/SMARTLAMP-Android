@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmartLamp.iml" filepath="$PROJECT_DIR$/SmartLamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMARTLAMP-Android.iml" filepath="$PROJECT_DIR$/SMARTLAMP-Android.iml" />
+      <module fileurl="file://E:\Study\AndroidStudioProjects\QLDA\SMARTLAMP-Android\SmartLamp.iml" filepath="E:\Study\AndroidStudioProjects\QLDA\SMARTLAMP-Android\SmartLamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
